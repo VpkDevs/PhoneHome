@@ -1,0 +1,8 @@
+{
+  "name": "PhoneHome",
+  "description": "Next-generation device intelligence platform utilizing multi-modal AI to perform deep hardware comparisons, upgrade analysis, and real-time market grounding.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
